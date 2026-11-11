@@ -34,7 +34,7 @@ const dudaaquila: Developer = {
 <img src = https://img.shields.io/badge/Google_Colab-14181C?style=for-the-badge&logo=googlecolab&logoColor=00E054&logoWidth=20><img src="assets/rating-colab.svg" height="28">
 </p>
 
-<p align="center"><sub>★ Nível de Conhecimento (0 to 5) &nbsp;·&nbsp; ♥ Favorite</sub></p>
+<p align="center"><sub>★ Nível de Conhecimento (0 a 5) &nbsp;·&nbsp; ♥ Favoritos</sub></p>
 
 <br>
 
