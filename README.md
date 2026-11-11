@@ -16,7 +16,7 @@ const dudaaquila: Developer = {
   education: "Studying Computer Science",
   learning: "Supervised Learning, Linear Regression, Fine-Tuning",
   mainLanguage: "Python, TypeScript, Java",
-  love: "Cats, Movie, RPG",
+  love: "Cats, Movies, RPG",
 };
 ```
 
