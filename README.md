@@ -64,9 +64,4 @@ const dudaaquila: Developer = {
 </a>
 </p>
 
-<p align="center">
-<img src="assets/cat.svg" width="96" alt="pixel cat">
-<br>
-<sub>meow.</sub>
-</p>
 
