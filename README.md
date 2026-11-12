@@ -33,17 +33,10 @@
 
 ## Find me! ✮
 
-<p align = "center">
-<a href = https://www.linkedin.com/in/maria-eduarda-aquila-a44950340>
-<img src = https://img.shields.io/badge/LinkedIn-14181C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjNDBCQ0Y0IiBkPSJNNDE2IDMySDMxLjlDMTQuMyAzMiAwIDQ2LjUgMCA2NC4zdjM4My40QzAgNDY1LjUgMTQuMyA0ODAgMzEuOSA0ODBINDE2YzE3LjYgMCAzMi0xNC41IDMyLTMyLjNWNjQuM2MwLTE3LjgtMTQuNC0zMi4zLTMyLTMyLjN6TTEzNS40IDQxNkg2OVYyMDIuMmg2Ni41VjQxNnptLTMzLjItMjQzYy0yMS4zIDAtMzguNS0xNy4zLTM4LjUtMzguNVM4MC45IDk2IDEwMi4yIDk2YzIxLjIgMCAzOC41IDE3LjMgMzguNSAzOC41IDAgMjEuMy0xNy4yIDM4LjUtMzguNSAzOC41em0yODIuMSAyNDNoLTY2LjRWMzEyYzAtMjQuOC0uNS01Ni43LTM0LjUtNTYuNy0zNC42IDAtMzkuOSAyNy0zOS45IDU0LjlWNDE2aC02Ni40VjIwMi4yaDYzLjd2MjkuMmguOWM4LjktMTYuOCAzMC42LTM0LjUgNjIuOS0zNC41IDY3LjIgMCA3OS43IDQ0LjMgNzkuNyAxMDEuOVY0MTZ6Ii8+PC9zdmc+&logoWidth=20 height = 30> 
-</a>
-<a>
-<a href = https://letterboxd.com/dudaaquila/>
-<img src = https://img.shields.io/badge/Letterboxd-14181C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzOCAxNCI+PGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjciIGZpbGw9IiNGRjgwMDAiLz48Y2lyY2xlIGN4PSIxOSIgY3k9IjciIHI9IjciIGZpbGw9IiMwMEUwNTQiLz48Y2lyY2xlIGN4PSIzMSIgY3k9IjciIHI9IjciIGZpbGw9IiM0MEJDRjQiLz48L3N2Zz4=&logoWidth=28) height = 30> 
-</a>
-<a href = https://www.duolingo.com/profile/dudaaquil4>
-<img src="https://img.shields.io/badge/Duolingo-14181C?style=for-the-badge&logo=duolingo&logoColor=00E054" height="30">
-</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/maria-eduarda-aquila-a44950340"><img src="https://img.shields.io/badge/LinkedIn-14181C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjNDBCQ0Y0IiBkPSJNNDE2IDMySDMxLjlDMTQuMyAzMiAwIDQ2LjUgMCA2NC4zdjM4My40QzAgNDY1LjUgMTQuMyA0ODAgMzEuOSA0ODBINDE2YzE3LjYgMCAzMi0xNC41IDMyLTMyLjNWNjQuM2MwLTE3LjgtMTQuNC0zMi4zLTMyLTMyLjN6TTEzNS40IDQxNkg2OVYyMDIuMmg2Ni41VjQxNnptLTMzLjItMjQzYy0yMS4zIDAtMzguNS0xNy4zLTM4LjUtMzguNVM4MC45IDk2IDEwMi4yIDk2YzIxLjIgMCAzOC41IDE3LjMgMzguNSAzOC41IDAgMjEuMy0xNy4yIDM4LjUtMzguNSAzOC41em0yODIuMSAyNDNoLTY2LjRWMzEyYzAtMjQuOC0uNS01Ni43LTM0LjUtNTYuNy0zNC42IDAtMzkuOSAyNy0zOS45IDU0LjlWNDE2aC02Ni40VjIwMi4yaDYzLjd2MjkuMmguOWM4LjktMTYuOCAzMC42LTM0LjUgNjIuOS0zNC41IDY3LjIgMCA3OS43IDQ0LjMgNzkuNyAxMDEuOVY0MTZ6Ii8+PC9zdmc+&logoWidth=20" height="30"></a>
+<a href="https://letterboxd.com/dudaaquila/"><img src="https://img.shields.io/badge/Letterboxd-14181C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzOCAxNCI+PGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjciIGZpbGw9IiNGRjgwMDAiLz48Y2lyY2xlIGN4PSIxOSIgY3k9IjciIHI9IjciIGZpbGw9IiMwMEUwNTQiLz48Y2lyY2xlIGN4PSIzMSIgY3k9IjciIHI9IjciIGZpbGw9IiM0MEJDRjQiLz48L3N2Zz4=&logoWidth=28" height="30"></a>
+<a href="https://www.duolingo.com/profile/dudaaquil4"><img src="https://img.shields.io/badge/Duolingo-14181C?style=for-the-badge&logo=duolingo&logoColor=00E054" height="30"></a>
 </p>
 
 <p align="center">
