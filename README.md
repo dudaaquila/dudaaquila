@@ -1,24 +1,6 @@
-<img align="right" height="200" src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNhcW9xejczbWhhbzNxejVtbXI1eGNsYXN1MGtiNm1pbWJpM2xsNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2KFQuaBbBD0x38Yk0b/200.webp"/>
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNhcW9xejczbWhhbzNxejVtbXI1eGNsYXN1MGtiNm1pbWJpM2xsNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2KFQuaBbBD0x38Yk0b/200.webp"/>
 
-```ts
-interface Developer {
-  name: string;
-  age: string;
-  education: string;
-  learning: string;
-  mainLanguage: string;
-  love: string;
-}
-
-const dudaaquila: Developer = {
-  name: "Maria Eduarda de Áquila",
-  age: "19 years",
-  education: "Studying Computer Science",
-  learning: "Supervised Learning, Linear Regression, Fine-Tuning",
-  mainLanguage: "Python, TypeScript, Java",
-  love: "Cats, Movies, RPG",
-};
-```
+<img src="assets/developer.svg" alt="dudaaquila: Developer" width="587">
 
 <br>
 
